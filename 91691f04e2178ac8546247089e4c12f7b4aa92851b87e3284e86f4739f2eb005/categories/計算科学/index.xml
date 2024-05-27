@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>計算科学 on 当事者化用語集</title>
+    <link>http://localhost:1313/categories/%E8%A8%88%E7%AE%97%E7%A7%91%E5%AD%A6/</link>
+    <description>Recent content in 計算科学 on 当事者化用語集</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2024, 当事者化若手の会; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E8%A8%88%E7%AE%97%E7%A7%91%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>構成的手法</title>
+      <link>http://localhost:1313/post/%E6%A7%8B%E6%88%90%E7%9A%84%E6%89%8B%E6%B3%95/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/%E6%A7%8B%E6%88%90%E7%9A%84%E6%89%8B%E6%B3%95/</guid>
+      <description>
+        
+          
+            ある現象にとって本質的な要素を発見するために、特定の状況や系を再現し、様々な条件・パラメータを試す方法のこと（金子, 2003, 『生命とは何か　複雑系生命論序説』）
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
